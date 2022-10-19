@@ -1,4 +1,5 @@
 #Ceva
+
 La primul exercitiu dupa ce am citit tot input-ul specificat asa cum este in cerinta, am luat o structura output pentru task-ul 1 in care am stocat toate elementele modificate din functia dijkstra, un algoritm prin care
  am aflat costul minim dintr-un punct ales, catre toate punctele din graf, specificand la sfarsit sfasitul drumului pentru a afla exact drumul care ne intereseaza.Am folosit acest algoritm de 2 ori, o data de la depozit pana la punctul dat si dupa de la punctul dat pana la depozit.
  Dupa care am printat output-ul asa cum ne este precizat si am dezalocat memoria.
